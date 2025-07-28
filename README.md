@@ -2,7 +2,7 @@
 
 A comprehensive study of modern crowd counting approaches from traditional methods to state-of-the-art deep learning models.
 
-## 🔍 What is Crowd Counting?
+##  What is Crowd Counting?
 
 Crowd counting estimates the number of people in images/video frames - critical for public safety, urban planning, event management, and surveillance applications.
 
@@ -13,7 +13,7 @@ Crowd counting estimates the number of people in images/video frames - critical 
 | YOLOv8 | 428.2 | 102.4 |
 | Specialized Models | ~50-60 | ~6-15 |
 
-## 📈 Evolution Timeline
+## Evolution Timeline
 
 ### 1. Pre-Deep Learning (2000-2015)
 - **Detection-Based**: Haar Wavelets + SVM, HOG + SVM
@@ -27,7 +27,7 @@ Crowd counting estimates the number of people in images/video frames - critical 
 - **Density Matching**: DM-Count, CHSNet
 - **Advanced Supervision**: MPS, Crowd-Diff
 
-## 👥 Team Members & Contributions
+##  Team Members & Contributions
 
 | Member | Affiliation | Models Studied | Key Contributions |
 |--------|-------------|----------------|-------------------|
@@ -36,7 +36,7 @@ Crowd counting estimates the number of people in images/video frames - critical 
 | **Abhinav Venkata Kota** | IIIT Hyderabad | MPS, CrowdCLIP | Multitask supervision & unsupervised learning implementation |
 | **Vidvathama** | IIIT Hyderabad | CrowdDiff | Diffusion model implementation, multi-hypothesis estimation |
 
-## 🎯 Models Studied
+##  Models Studied
 
 ### 1. DM-Count: Distribution Matching
 **By Harshit Singh Mehta**
@@ -106,7 +106,7 @@ Crowd counting estimates the number of people in images/video frames - critical 
 | UCF-QNRF | 68.9 | 125.6 |
 | NWPU | 57.8 | 221.2 |
 
-## 🏆 Performance Summary
+##  Performance Summary
 
 | Model | Best Dataset Performance | Key Innovation |
 |-------|-------------------------|----------------|
